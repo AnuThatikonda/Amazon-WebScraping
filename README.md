@@ -25,25 +25,14 @@ This project focuses on automating the extraction of product details from Amazon
 ## **Prerequisites**
 - Python 3.6 or higher.
 - Install the required libraries:
-  ```bash
-  pip install requests beautifulsoup4
-  ```
 
 ## **Setup Instructions**
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnuThatikonda/Amazon-WebScraping.git
-   cd Amazon-WebScraping
-   ```
+  
 2. Update the `URL` variable in the script with your target Amazon product URL. Example:
-   ```python
-   URL = 'https://www.amazon.com/dp/example-product'
-   ```
+  
 3. Run the script:
-   ```bash
-   python amazon_scraper.py
-   ```
-
+   
 ## **Best Practices for Web Scraping**
 
 - **Use Headers**: Mimic a real browser by including headers in your requests.
