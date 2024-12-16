@@ -29,7 +29,7 @@ This project focuses on automating the extraction of product details from Amazon
 ## **Setup Instructions**
 1. Clone the repository
   
-2. Update the `URL` variable in the script with your target Amazon product URL. Example
+2. Update the `URL` variable in the script with your target Amazon product URL. 
   
 3. Run the script
    
